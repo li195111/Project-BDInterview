@@ -1,0 +1,7 @@
+Django==3.2
+
+# Database
+git+ssh://git@github.com/li195111/PyESQL.git
+
+# Auth
+jwcrypto
